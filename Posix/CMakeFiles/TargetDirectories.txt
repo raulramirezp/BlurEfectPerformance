@@ -1,0 +1,3 @@
+/media/hal9000/Data/Programacion/ParalelaYDistribuida/raaramirezpe-jcgamar(pracitca3)/Posix/CMakeFiles/edit_cache.dir
+/media/hal9000/Data/Programacion/ParalelaYDistribuida/raaramirezpe-jcgamar(pracitca3)/Posix/CMakeFiles/rebuild_cache.dir
+/media/hal9000/Data/Programacion/ParalelaYDistribuida/raaramirezpe-jcgamar(pracitca3)/Posix/CMakeFiles/blur-effect.dir
